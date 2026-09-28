@@ -25,14 +25,7 @@ The system uses **MobileNetV2**, a pretrained convolutional neural network, as a
 - Split the dataset into training, validation, and testing sets.
 - Resize images to a consistent input size.
 - Normalize image pixel values.
-- Apply image augmentation to improve generalization.
-- Build a deep learning image classification model.
-- Use MobileNetV2 transfer learning.
-- Fine-tune the pretrained model.
-- Experiment with class-weighted training.
-- Evaluate the model using accuracy, precision, recall, F1-score, and confusion matrix.
 
----
 
 ## 🛠️ Technologies Used
 
